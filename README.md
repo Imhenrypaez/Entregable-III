@@ -1,4 +1,4 @@
-# Gestor de Tareas - Henry Paez v2.0
+# Gestor de Tareas - Henry Paez v3.0
 
 Proyecto de prueba en Python para demostrar la implementación de GitHub como herramienta de gestión de versiones.
 
